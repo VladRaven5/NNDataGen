@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "NNDataGen": {
+      "commandName": "Project",
+      "commandLineArgs": "-c 2000"
+    }
+  }
+}
