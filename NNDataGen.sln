@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.489
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNDataGen", "NNDataGen\NNDataGen.csproj", "{69F99681-6547-48A5-804A-978292BE16FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNDataGen.Tests", "NNDataGen.Tests\NNDataGen.Tests.csproj", "{A69225DB-03E5-4D10-895D-58F0962EBECD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{69F99681-6547-48A5-804A-978292BE16FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69F99681-6547-48A5-804A-978292BE16FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69F99681-6547-48A5-804A-978292BE16FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A69225DB-03E5-4D10-895D-58F0962EBECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A69225DB-03E5-4D10-895D-58F0962EBECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A69225DB-03E5-4D10-895D-58F0962EBECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A69225DB-03E5-4D10-895D-58F0962EBECD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
