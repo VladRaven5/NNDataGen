@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NNDataGen", "NNDataGen\NNDataGen.csproj", "{69F99681-6547-48A5-804A-978292BE16FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F99681-6547-48A5-804A-978292BE16FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F99681-6547-48A5-804A-978292BE16FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F99681-6547-48A5-804A-978292BE16FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F99681-6547-48A5-804A-978292BE16FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {99E341FE-170B-46F0-8B97-8FA421040A78}
+	EndGlobalSection
+EndGlobal
